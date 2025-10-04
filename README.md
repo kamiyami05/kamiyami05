@@ -29,7 +29,7 @@
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dxuan1912)  
-📧 Email: **yourmail@example.com**
+📧 Email: **duc47xuan@gmail.com.com**
 
 ---
 

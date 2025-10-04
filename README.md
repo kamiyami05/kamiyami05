@@ -1,15 +1,14 @@
-<!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Xuan!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50)
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Xuan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=50)
 
-## 🧑‍💻 About Me
-- 🔭 Currently learning and building **web applications**
-- 💡 Interested in **Node.js, ASP.NET, MongoDB, and UI design**
-- 🎯 Goal: To become a full-stack developer
-- ⚡ Fun fact: I love coding, gaming, and hitting the gym 💪
+## 👨‍💻 About Me
+- 🔭 Currently studying and working with **Web Development / Backend**
+- 🌱 Interested in **Node.js, ASP.NET, MongoDB, SQL**
+- ⚡ Hobbies: coding, gaming, and gym 💪
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technologies I Use
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,cs,dotnet,mongodb,mysql,git,github,vscode,visualstudio" />
 </p>
@@ -22,7 +21,7 @@
 
 ---
 
-## 🔥 Activity
+## 🔥 Recent Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamiyami05&theme=radical&border_radius=6)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamiyami05&theme=react-dark)
 

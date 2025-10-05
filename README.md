@@ -3,7 +3,6 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently studying and working with **Web Development / Backend**
-- 🌱 Interested in **Node.js, ASP.NET, MongoDB, SQL**
 - ⚡ Hobbies: coding, gaming, and gym 💪
 
 ---

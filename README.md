@@ -10,7 +10,7 @@
 
 ## 🚀 Technologies I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,python,java,cs,dotnet,mongodb,mysql,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,python,java,cs,dotnet,mongodb,mysql,github,vscode,visualstudio" />
 </p>
 
 ---
